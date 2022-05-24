@@ -1,0 +1,3 @@
+Sprites usados neste tutorial:
+
+- Background Elements Redux (por Keeney): https://www.kenney.nl/assets/background-elements-redux
